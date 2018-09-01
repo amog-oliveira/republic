@@ -33,6 +33,7 @@ group :test do
   gem 'selenium-webdriver'
   gem 'chromedriver-helper'
   gem "capybara-webkit"
+  gem 'shoulda-matchers', '~> 3.1'
 
 end
 
